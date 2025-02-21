@@ -15,7 +15,7 @@ namespace Likelion_03
             string name = "Lion";
             char grade = 'S';
 
-            Console.WriteLine(hp);
+            Console.WriteLine("체력:"+hp);
             Console.WriteLine(att);
             Console.WriteLine(name);
             Console.WriteLine(grade);
