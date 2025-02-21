@@ -1,0 +1,7 @@
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\stat check\stat check\bin\Debug\stat check.exe.config
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\stat check\stat check\bin\Debug\stat check.exe
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\stat check\stat check\bin\Debug\stat check.pdb
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\stat check\stat check\obj\Debug\stat check.csproj.AssemblyReference.cache
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\stat check\stat check\obj\Debug\stat check.csproj.CoreCompileInputs.cache
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\stat check\stat check\obj\Debug\stat check.exe
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\stat check\stat check\obj\Debug\stat check.pdb
