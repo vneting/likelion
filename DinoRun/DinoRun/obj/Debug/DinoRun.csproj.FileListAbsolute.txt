@@ -1,0 +1,7 @@
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\DinoRun\DinoRun\bin\Debug\DinoRun.exe.config
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\DinoRun\DinoRun\bin\Debug\DinoRun.exe
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\DinoRun\DinoRun\bin\Debug\DinoRun.pdb
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\DinoRun\DinoRun\obj\Debug\DinoRun.csproj.AssemblyReference.cache
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\DinoRun\DinoRun\obj\Debug\DinoRun.csproj.CoreCompileInputs.cache
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\DinoRun\DinoRun\obj\Debug\DinoRun.exe
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\DinoRun\DinoRun\obj\Debug\DinoRun.pdb

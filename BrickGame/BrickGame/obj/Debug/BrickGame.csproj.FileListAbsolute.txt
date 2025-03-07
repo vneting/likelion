@@ -1,0 +1,7 @@
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\BrickGame\BrickGame\bin\Debug\BrickGame.exe.config
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\BrickGame\BrickGame\bin\Debug\BrickGame.exe
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\BrickGame\BrickGame\bin\Debug\BrickGame.pdb
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\BrickGame\BrickGame\obj\Debug\BrickGame.csproj.AssemblyReference.cache
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\BrickGame\BrickGame\obj\Debug\BrickGame.csproj.CoreCompileInputs.cache
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\BrickGame\BrickGame\obj\Debug\BrickGame.exe
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\BrickGame\BrickGame\obj\Debug\BrickGame.pdb

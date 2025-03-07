@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\TEXTRPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\TEXTRPG\\TEXTRPG\\Monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TEXTRPG\\Monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\TEXTRPG\\TEXTRPG\\Field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TEXTRPG\\Field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\TEXTRPG\\TEXTRPG\\MainGame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TEXTRPG\\MainGame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\TEXTRPG\\TEXTRPG\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TEXTRPG\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\TEXTRPG\\TEXTRPG\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TEXTRPG\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\TEXTRPG\\TEXTRPG\\INFO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TEXTRPG\\INFO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\TEXTRPG\\TEXTRPG\\Monster.cs",
+              "RelativeDocumentMoniker": "TEXTRPG\\Monster.cs",
+              "ToolTip": "C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\TEXTRPG\\TEXTRPG\\Monster.cs",
+              "RelativeToolTip": "TEXTRPG\\Monster.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:04:09.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Field.cs",
+              "DocumentMoniker": "C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\TEXTRPG\\TEXTRPG\\Field.cs",
+              "RelativeDocumentMoniker": "TEXTRPG\\Field.cs",
+              "ToolTip": "C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\TEXTRPG\\TEXTRPG\\Field.cs",
+              "RelativeToolTip": "TEXTRPG\\Field.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAACgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:02:49.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainGame.cs",
+              "DocumentMoniker": "C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\TEXTRPG\\TEXTRPG\\MainGame.cs",
+              "RelativeDocumentMoniker": "TEXTRPG\\MainGame.cs",
+              "ToolTip": "C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\TEXTRPG\\TEXTRPG\\MainGame.cs",
+              "RelativeToolTip": "TEXTRPG\\MainGame.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:31:51.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\TEXTRPG\\TEXTRPG\\Player.cs",
+              "RelativeDocumentMoniker": "TEXTRPG\\Player.cs",
+              "ToolTip": "C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\TEXTRPG\\TEXTRPG\\Player.cs",
+              "RelativeToolTip": "TEXTRPG\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:13:03.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INFO.cs",
+              "DocumentMoniker": "C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\TEXTRPG\\TEXTRPG\\INFO.cs",
+              "RelativeDocumentMoniker": "TEXTRPG\\INFO.cs",
+              "ToolTip": "C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\TEXTRPG\\TEXTRPG\\INFO.cs",
+              "RelativeToolTip": "TEXTRPG\\INFO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:11:03.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\TEXTRPG\\TEXTRPG\\Program.cs",
+              "RelativeDocumentMoniker": "TEXTRPG\\Program.cs",
+              "ToolTip": "C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\TEXTRPG\\TEXTRPG\\Program.cs",
+              "RelativeToolTip": "TEXTRPG\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:06:00.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

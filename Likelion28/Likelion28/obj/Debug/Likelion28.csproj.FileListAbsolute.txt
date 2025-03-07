@@ -1,0 +1,7 @@
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\Likelion28\Likelion28\bin\Debug\Likelion28.exe.config
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\Likelion28\Likelion28\bin\Debug\Likelion28.exe
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\Likelion28\Likelion28\bin\Debug\Likelion28.pdb
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\Likelion28\Likelion28\obj\Debug\Likelion28.csproj.AssemblyReference.cache
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\Likelion28\Likelion28\obj\Debug\Likelion28.csproj.CoreCompileInputs.cache
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\Likelion28\Likelion28\obj\Debug\Likelion28.exe
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\Likelion28\Likelion28\obj\Debug\Likelion28.pdb

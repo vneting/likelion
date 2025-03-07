@@ -1,0 +1,7 @@
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\이벤트\이벤트\bin\Debug\이벤트.exe.config
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\이벤트\이벤트\bin\Debug\이벤트.exe
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\이벤트\이벤트\bin\Debug\이벤트.pdb
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\이벤트\이벤트\obj\Debug\이벤트.csproj.AssemblyReference.cache
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\이벤트\이벤트\obj\Debug\이벤트.csproj.CoreCompileInputs.cache
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\이벤트\이벤트\obj\Debug\이벤트.exe
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\이벤트\이벤트\obj\Debug\이벤트.pdb

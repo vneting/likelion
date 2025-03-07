@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Likelion12", "Likelion12\Likelion12.csproj", "{0F7E8AF4-F6BE-4449-BD6E-A27F0D94196E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F7E8AF4-F6BE-4449-BD6E-A27F0D94196E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F7E8AF4-F6BE-4449-BD6E-A27F0D94196E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F7E8AF4-F6BE-4449-BD6E-A27F0D94196E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F7E8AF4-F6BE-4449-BD6E-A27F0D94196E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E8C7E6B-2149-48E0-A604-1858C6102AFD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\Likelion09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BEF6BE-C0EA-4C9D-9D42-B7F853A10203}|Likelion09\\Likelion09.csproj|c:\\users\\tyuio\\onedrive\\desktop\\likelion\\likelion\\likelion09\\likelion09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BEF6BE-C0EA-4C9D-9D42-B7F853A10203}|Likelion09\\Likelion09.csproj|solutionrelative:likelion09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\Likelion09\\Likelion09\\Program.cs",
+              "RelativeDocumentMoniker": "Likelion09\\Program.cs",
+              "ToolTip": "C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\Likelion09\\Likelion09\\Program.cs*",
+              "RelativeToolTip": "Likelion09\\Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwCQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:08:08.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

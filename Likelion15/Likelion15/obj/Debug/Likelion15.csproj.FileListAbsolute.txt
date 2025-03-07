@@ -1,0 +1,7 @@
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\Likelion15\Likelion15\bin\Debug\Likelion15.exe.config
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\Likelion15\Likelion15\bin\Debug\Likelion15.exe
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\Likelion15\Likelion15\bin\Debug\Likelion15.pdb
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\Likelion15\Likelion15\obj\Debug\Likelion15.csproj.AssemblyReference.cache
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\Likelion15\Likelion15\obj\Debug\Likelion15.csproj.CoreCompileInputs.cache
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\Likelion15\Likelion15\obj\Debug\Likelion15.exe
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\Likelion15\Likelion15\obj\Debug\Likelion15.pdb

@@ -1,0 +1,7 @@
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\Deligate\Deligate\bin\Debug\Deligate.exe.config
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\Deligate\Deligate\bin\Debug\Deligate.exe
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\Deligate\Deligate\bin\Debug\Deligate.pdb
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\Deligate\Deligate\obj\Debug\Deligate.csproj.AssemblyReference.cache
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\Deligate\Deligate\obj\Debug\Deligate.csproj.CoreCompileInputs.cache
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\Deligate\Deligate\obj\Debug\Deligate.exe
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\Deligate\Deligate\obj\Debug\Deligate.pdb
