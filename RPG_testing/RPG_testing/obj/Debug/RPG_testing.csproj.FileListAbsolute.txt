@@ -1,0 +1,7 @@
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\RPG_testing\RPG_testing\bin\Debug\RPG_testing.exe.config
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\RPG_testing\RPG_testing\bin\Debug\RPG_testing.exe
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\RPG_testing\RPG_testing\bin\Debug\RPG_testing.pdb
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\RPG_testing\RPG_testing\obj\Debug\RPG_testing.csproj.AssemblyReference.cache
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\RPG_testing\RPG_testing\obj\Debug\RPG_testing.csproj.CoreCompileInputs.cache
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\RPG_testing\RPG_testing\obj\Debug\RPG_testing.exe
+C:\Users\tyuio\OneDrive\Desktop\likelion\likelion\RPG_testing\RPG_testing\obj\Debug\RPG_testing.pdb

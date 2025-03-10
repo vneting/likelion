@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\RPG_testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B65F00B9-1303-469D-A63F-6F574D62C2F3}|RPG_testing\\RPG_testing.csproj|c:\\users\\tyuio\\onedrive\\desktop\\likelion\\likelion\\rpg_testing\\rpg_testing\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65F00B9-1303-469D-A63F-6F574D62C2F3}|RPG_testing\\RPG_testing.csproj|solutionrelative:rpg_testing\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65F00B9-1303-469D-A63F-6F574D62C2F3}|RPG_testing\\RPG_testing.csproj|c:\\users\\tyuio\\onedrive\\desktop\\likelion\\likelion\\rpg_testing\\rpg_testing\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65F00B9-1303-469D-A63F-6F574D62C2F3}|RPG_testing\\RPG_testing.csproj|solutionrelative:rpg_testing\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65F00B9-1303-469D-A63F-6F574D62C2F3}|RPG_testing\\RPG_testing.csproj|c:\\users\\tyuio\\onedrive\\desktop\\likelion\\likelion\\rpg_testing\\rpg_testing\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65F00B9-1303-469D-A63F-6F574D62C2F3}|RPG_testing\\RPG_testing.csproj|solutionrelative:rpg_testing\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65F00B9-1303-469D-A63F-6F574D62C2F3}|RPG_testing\\RPG_testing.csproj|c:\\users\\tyuio\\onedrive\\desktop\\likelion\\likelion\\rpg_testing\\rpg_testing\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65F00B9-1303-469D-A63F-6F574D62C2F3}|RPG_testing\\RPG_testing.csproj|solutionrelative:rpg_testing\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65F00B9-1303-469D-A63F-6F574D62C2F3}|RPG_testing\\RPG_testing.csproj|c:\\users\\tyuio\\onedrive\\desktop\\likelion\\likelion\\rpg_testing\\rpg_testing\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65F00B9-1303-469D-A63F-6F574D62C2F3}|RPG_testing\\RPG_testing.csproj|solutionrelative:rpg_testing\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65F00B9-1303-469D-A63F-6F574D62C2F3}|RPG_testing\\RPG_testing.csproj|c:\\users\\tyuio\\onedrive\\desktop\\likelion\\likelion\\rpg_testing\\rpg_testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65F00B9-1303-469D-A63F-6F574D62C2F3}|RPG_testing\\RPG_testing.csproj|solutionrelative:rpg_testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\RPG_testing\\RPG_testing\\Monster.cs",
+              "RelativeDocumentMoniker": "RPG_testing\\Monster.cs",
+              "ToolTip": "C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\RPG_testing\\RPG_testing\\Monster.cs",
+              "RelativeToolTip": "RPG_testing\\Monster.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxMAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:46:03.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INFO.cs",
+              "DocumentMoniker": "C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\RPG_testing\\RPG_testing\\INFO.cs",
+              "RelativeDocumentMoniker": "RPG_testing\\INFO.cs",
+              "ToolTip": "C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\RPG_testing\\RPG_testing\\INFO.cs",
+              "RelativeToolTip": "RPG_testing\\INFO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:08:36.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Field.cs",
+              "DocumentMoniker": "C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\RPG_testing\\RPG_testing\\Field.cs",
+              "RelativeDocumentMoniker": "RPG_testing\\Field.cs",
+              "ToolTip": "C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\RPG_testing\\RPG_testing\\Field.cs",
+              "RelativeToolTip": "RPG_testing\\Field.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:07:54.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\RPG_testing\\RPG_testing\\Player.cs",
+              "RelativeDocumentMoniker": "RPG_testing\\Player.cs",
+              "ToolTip": "C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\RPG_testing\\RPG_testing\\Player.cs",
+              "RelativeToolTip": "RPG_testing\\Player.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvzUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:07:17.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\RPG_testing\\RPG_testing\\GameManager.cs",
+              "RelativeDocumentMoniker": "RPG_testing\\GameManager.cs",
+              "ToolTip": "C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\RPG_testing\\RPG_testing\\GameManager.cs",
+              "RelativeToolTip": "RPG_testing\\GameManager.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:06:16.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\RPG_testing\\RPG_testing\\Program.cs",
+              "RelativeDocumentMoniker": "RPG_testing\\Program.cs",
+              "ToolTip": "C:\\Users\\tyuio\\OneDrive\\Desktop\\likelion\\likelion\\RPG_testing\\RPG_testing\\Program.cs",
+              "RelativeToolTip": "RPG_testing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:04:28.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

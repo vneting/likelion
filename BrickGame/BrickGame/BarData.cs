@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace BrickGame
 {
-    public class BallData
+    public class BARDATA
     {
-        public int nReady;  //공 준비 상태
-        public int nDirect; //공 방향
-        public int nX, nY;  //좌표
+        public int[] nX = new int[3];
+        public int nY;
     }
 }
